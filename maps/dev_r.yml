@@ -1,0 +1,5405 @@
+map:
+  ==: com.FirstGame.Extra.Map.GameMap.GameMap
+  top:
+    ==: Vector
+    x: 18.0
+    y: 0.0
+    z: 2.0
+  bottom:
+    ==: Vector
+    x: 18.0
+    y: 0.0
+    z: 2.0
+  blocks:
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: WOOL
+      data: 4
+      typeid: 35
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 1
+      typeid: 251
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 12
+      typeid: 251
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: AIR
+      data: 0
+      typeid: 0
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: CONCRETE
+      data: 4
+      typeid: 251
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 15
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STAINED_CLAY
+      data: 1
+      typeid: 159
+  name: r
+  birth:
+    ==: Vector
+    x: 13.0
+    y: 0.0
+    z: 12.0
+  first:
+    ==: Vector
+    x: 0.0
+    y: 4.0
+    z: 27.0
+  second:
+    ==: Vector
+    x: 23.0
+    y: -1.0
+    z: 0.0

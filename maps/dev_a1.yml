@@ -1,0 +1,8741 @@
+waitmap:
+  ==: com.FirstGame.Extra.Map.GameMap.WaitMap
+  wait:
+    ==: Vector
+    x: 21.0
+    y: 0.0
+    z: 21.0
+  top:
+    ==: Vector
+    x: 31.0
+    y: 0.0
+    z: 31.0
+  bottom:
+    ==: Vector
+    x: 31.0
+    y: 0.0
+    z: 31.0
+  blocks:
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 15.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 6.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 14.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 31.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 13.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 32.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 0.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 2.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 18.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 19.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 3.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: COBBLESTONE
+      data: 0
+      typeid: 4
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: QUARTZ_BLOCK
+      data: 0
+      typeid: 155
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 7.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 17.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 1.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 16.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 9.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 24.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 22.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 23.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 20.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 21.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 8.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 30.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 5.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 12.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 29.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 11.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 28.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 25.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 10.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 3.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 0.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 2.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 5.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 6.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 4.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 10.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 29.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 11.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 28.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 31.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 12.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 30.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 13.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 32.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 7.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 8.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 9.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 26.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 21.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 20.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 23.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 22.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 25.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 24.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 27.0
+      y: 0.0
+      z: 1.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 27.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 26.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 14.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 15.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 17.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 16.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 19.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+    ? ==: Vector
+      x: 4.0
+      y: 0.0
+      z: 18.0
+    : ==: com.FirstGame.Extra.Map.GameMap.MapBlockData
+      mtrl: STONE
+      data: 0
+      typeid: 1
+  name: a1
+  first:
+    ==: Vector
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  second:
+    ==: Vector
+    x: 32.0
+    y: 0.0
+    z: 32.0
